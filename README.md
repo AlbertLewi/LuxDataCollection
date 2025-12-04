@@ -7,6 +7,7 @@ Code Structure:
 - Appends list of lux values with lux value
 - Returns the average of the list after 10 collections
 - Appends CSV with lux value and other relevent project data
+
 Calibration:
 - Parameters in lux equation were played around with until lux readings roughly matched the readings from a lux detection app on my phone.
 - Lux data is generally accurate to the order of magnitude, and is generally off within a range of +/- 5 to 20
